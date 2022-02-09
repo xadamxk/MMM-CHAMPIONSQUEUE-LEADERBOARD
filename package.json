@@ -1,0 +1,26 @@
+{
+  "name": "mmm-championsqueue-leaderboard",
+  "version": "1.0.0",
+  "description": "Displays standings for League of Legends Champions Queue.",
+  "main": "MMM-CHAMPIONSQUEUE-LEADERBOARD.js",
+  "repository": "https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD",
+  "bugs": {
+    "url": "https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD/issues"
+  },
+  "homepage": "https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD#readme",
+  "keywords": [
+    "magic",
+    "mirror",
+    "module",
+    "esports",
+    "league",
+    "of",
+    "legends",
+    "championsqueue"
+  ],
+  "author": "xadamxk",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

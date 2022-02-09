@@ -1,0 +1,17 @@
+<table class="championsQueueStandingsTable">
+    {% if standings.length === 0 %}
+        <tr>
+            <td>{{ 'NO_STANDINGS_FOUND' | translate }}</td>
+        </tr>
+    {% else %}
+        {% if config.showTitle %}
+            <thead>
+                <tr>
+                    <div>{{seasonTitle}}
+                        -
+                        {{splitTitle}}</div>
+                </tr>
+            </thead>
+        {% endif %}
+    {% endif %}
+</table>
