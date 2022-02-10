@@ -1,4 +1,11 @@
-
 .championsQueueStandingsTable {
     color: white
+}
+
+.championsQueueRow {
+    height: 24px;
+}
+
+.championsQueueInvisible {
+    visibility: hidden;
 }

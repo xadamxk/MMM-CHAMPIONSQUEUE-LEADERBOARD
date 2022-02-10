@@ -4,14 +4,44 @@
             <td>{{ 'NO_STANDINGS_FOUND' | translate }}</td>
         </tr>
     {% else %}
+        {# Title #}
         {% if config.showTitle %}
             <thead>
                 <tr>
-                    <div>{{seasonTitle}}
+                    <td>
+                        {{seasonTitle}}
                         -
-                        {{splitTitle}}</div>
+                        {{splitTitle}}
+                    </td>
                 </tr>
             </thead>
         {% endif %}
+        {# Remaining Time #}
+        {% if config.showRemainingTime %}
+            <tr>
+                <td>
+                    9 Days Remaining
+                </td>
+            </tr>
+        {% endif %}
+        {# Loop players #}
+        {% for player in players %}
+            <tr class="championsQueueRow">
+                <td colspan="100%">
+                    {# First Rank - always append rank #}
+                    {% if loop.index0 === 0 %}
+                        <span>{{player.rank}}.</span>
+                    {% else %}
+                        {# Ff previous player rank is current players rank, hide rank #}
+                        {% if players[loop.index0 - 1].rank === player.rank %}
+                            <span class="championsQueueInvisible">{{player.rank}}.</span>
+                        {% else %}
+                            <span>{{player.rank}}.</span>
+                        {% endif %}
+                    {% endif %}
+                    <span>{{player.name}}</span>
+                </td>
+            </tr>
+        {% endfor %}
     {% endif %}
 </table>

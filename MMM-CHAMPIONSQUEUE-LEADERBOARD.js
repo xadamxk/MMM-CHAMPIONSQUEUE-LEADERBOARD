@@ -5,17 +5,20 @@ Module.register("MMM-CHAMPIONSQUEUE-LEADERBOARD", {
 		// lang: config.language,
 		resultCount: 10, // Number of players to list
 		showTitle: true, // Season - Split (ex. 2022 Spring Season - Split 1)
-		showCurrentSplit: true // Limit leaderboard to current split
+		showCurrentSplit: true, // Limit leaderboard to current split (vs current season)
+		showRemainingTime: true, // Show remaining time for given split/season
+		showPlayerWinRates: true, // Default
+		showPlayerWinCount: false, // Off by default
+		showPlayerLP: true // Default
 	},
 
-	// TODO: add flag for overall season or current split (showCurrentSplit)
-	// TODO: add flag for showRemainingTime (pivots off showCurrentSplit)
-	// TODO: add flag for showWinRate (default)
-	// TODO: add flag for showWinCount
-	// TODO: add flag for showLp (default)
+	// TODO: Styling for title, remaining time, rows
+	// TODO: Add win rates to player rows
+	// TODO: Add win counts to player rows
+	// TODO: Add player lp
 
 	// Module properties
-	standings: [],
+	players: [],
 	year: new Date().getFullYear(),
 	seasonId: 0,
 	seasonTitle: "",
@@ -52,7 +55,7 @@ Module.register("MMM-CHAMPIONSQUEUE-LEADERBOARD", {
 	},
 	getTemplateData() {
 		return {
-			standings: this.standings,
+			players: this.players,
 			seasonId: this.seasonId,
 			seasonTitle: this.seasonTitle,
 			seasonShort: this.seasonShort,
@@ -98,8 +101,8 @@ Module.register("MMM-CHAMPIONSQUEUE-LEADERBOARD", {
 		this.splitCloseDate = currentSplit["closeDate"];
 
 		const results = currentLeaderboard.hasOwnProperty("lineup") && currentLeaderboard["lineup"];
-		this.standings = results.slice(0, resultCount);
-		console.log(this.standings);
+		this.players = results.slice(0, resultCount);
+		console.log(this.players);
 		this.updateDom(500);
 	}
 });
