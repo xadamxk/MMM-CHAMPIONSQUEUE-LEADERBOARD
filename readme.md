@@ -1,4 +1,4 @@
-# MMM-LOLESPORTS-STANDINGS
+# MMM-CHAMPIONSQUEUE-LEADERBOARD
 Displays LOL Champions Queue standings on your magic mirror!
 Module for <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a>.
 
