@@ -3,8 +3,8 @@ Displays LOL Champions Queue standings on your magic mirror!
 Module for <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a>.
 
 Other league related modules:
-- TBD
-- TBD
+- <a href="https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES">MMM-LOLESPORTS-SCHEDULES</a>: Display LOL Esports league schedules
+- <a href="https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS">MMM-LOLESPORTS-STANDINGS</a>: Display LOL Esports league standings 
 
 ## Previews with Configuration Samples
 #### Default
