@@ -3,9 +3,9 @@ Module.register("MMM-CHAMPIONSQUEUE-LEADERBOARD", {
   defaults: {
     updateInterval: 60, // minutes
     // lang: config.language,
-    resultCount: 10, // Number of players to list
+    resultCount: 10, // Number of players' results to list
     showTitle: true, // Season - Split (ex. 2022 Spring Season - Split 1)
-    showCurrentSplit: true, // Limit leaderboard to current split (vs current season)
+    showCurrentSplit: true, // Limit leaderboard to current split (uses current season otherwise)
     showRemainingTime: true, // Show remaining time for given split/season
     showPlayerLP: false, // Replace rank ordinal with the player's LP
     showPlayerWinCount: false, // Show wins-losses count
