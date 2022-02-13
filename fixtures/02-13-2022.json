@@ -1,0 +1,4371 @@
+{
+    "leaderboards": [
+        {
+            "seasonId": 1,
+            "title": "2022 Spring Season",
+            "shortTitle": "Spring",
+            "year": 2022,
+            "openDate": "2022-02-07T08:00:00.000000Z",
+            "closeDate": "2022-05-23T08:00:00.000000Z",
+            "split": {
+                "splitId": 1,
+                "title": "Split 1",
+                "openDate": "2022-02-07T08:00:00.000000Z",
+                "closeDate": "2022-03-07T08:00:00.000000Z"
+            },
+            "lineup": [
+                {
+                    "summonerId": 2686751958099104,
+                    "name": "FLY Kumo",
+                    "rank": 1,
+                    "seasonPoints": 0,
+                    "lp": 175,
+                    "wins": 23,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754494891168,
+                    "name": "EG jojopyun",
+                    "rank": 1,
+                    "seasonPoints": 0,
+                    "lp": 175,
+                    "wins": 22,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2688040516027552,
+                    "name": "rjs",
+                    "rank": 3,
+                    "seasonPoints": 0,
+                    "lp": 135,
+                    "wins": 20,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120339,
+                    "name": "100X Insanity",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 19,
+                    "losses": 16,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120292,
+                    "name": "GG Licorice",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 16,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120530,
+                    "name": "EG Kaori",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 15,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120289,
+                    "name": "GG Ablazeolive",
+                    "rank": 7,
+                    "seasonPoints": 0,
+                    "lp": 115,
+                    "wins": 16,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090865522400,
+                    "name": "SN Ariendel",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 16,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120241,
+                    "name": "FLY Johnsun",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 14,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120749,
+                    "name": "XTN Keine",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 15,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752357418144,
+                    "name": "EG Srtty",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 14,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120430,
+                    "name": "FLY Josedeodo",
+                    "rank": 12,
+                    "seasonPoints": 0,
+                    "lp": 100,
+                    "wins": 15,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686732994692256,
+                    "name": "100 Tenacity",
+                    "rank": 13,
+                    "seasonPoints": 0,
+                    "lp": 95,
+                    "wins": 15,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736629671072,
+                    "name": "CLG Luger",
+                    "rank": 13,
+                    "seasonPoints": 0,
+                    "lp": 95,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074189444832,
+                    "name": "UCI dtro18",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 10,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686749231678624,
+                    "name": "Lourlo",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 15,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120270,
+                    "name": "EG Impact",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2719932643173632,
+                    "name": "TSM Takeover",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 12,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120311,
+                    "name": "CLG Breezy",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752800957600,
+                    "name": "EG Tomio",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 14,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090862900960,
+                    "name": "UCI Kim Down",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120753,
+                    "name": "EST Mia",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2704994465965216,
+                    "name": "AZE Dimitry",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 10,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120651,
+                    "name": "IMT Destiny",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 12,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1330170,
+                    "name": "DIG River",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752668624032,
+                    "name": "FLY Diamond",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799086370866592,
+                    "name": "IMT Chad",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 14,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869954552218720,
+                    "name": "C9 Malice",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 8,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686730968237216,
+                    "name": "TL Armao",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 12,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2870001115759712,
+                    "name": "IMT Concept",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 12,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1460128,
+                    "name": "IMT Arrow",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 10,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752820962464,
+                    "name": "FLY Tomo",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 10,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120735,
+                    "name": "AZE Lonely",
+                    "rank": 33,
+                    "seasonPoints": 0,
+                    "lp": 75,
+                    "wins": 9,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120295,
+                    "name": "C9 Zven",
+                    "rank": 33,
+                    "seasonPoints": 0,
+                    "lp": 75,
+                    "wins": 9,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799097405924768,
+                    "name": "TG Gweiss",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 11,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756190618784,
+                    "name": "100X Sword",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 10,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076149700321,
+                    "name": "UCI duong pro",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 13,
+                    "losses": 16,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120242,
+                    "name": "FLY aphromoo",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 11,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120320,
+                    "name": "GG Lost",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 10,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2638968112948960,
+                    "name": "GG Pridestalkr",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 9,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120397,
+                    "name": "R7 Warangelus",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 12,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120264,
+                    "name": "Smoothie",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 12,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120247,
+                    "name": "GG Olleh",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2803278676256160,
+                    "name": "TSM Shenyi",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 8,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686753979532448,
+                    "name": "TSM V1per",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 9,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686749802341536,
+                    "name": "GG Tony Top",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 13,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686735300846752,
+                    "name": "100 Kenvi",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090877982432,
+                    "name": "TA Chookies",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686732453594272,
+                    "name": "TL Eyla",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 8,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120734,
+                    "name": "C9 Summit",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2630712235124096,
+                    "name": "MU Niles",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 11,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120656,
+                    "name": "TL Hans sama",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 9,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873432713832160,
+                    "name": "IMT Dardoch",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 9,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799093553350048,
+                    "name": "DIG eXyu",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120283,
+                    "name": "100 Closer",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 8,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1220238,
+                    "name": "ISG ADD",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754525512864,
+                    "name": "RAD Raheen",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120446,
+                    "name": "INF cody",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 9,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2615481136555392,
+                    "name": "C9 Berserker",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 7,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2750663290152064,
+                    "name": "100 JimieN",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120280,
+                    "name": "TSM Tactical",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 6,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120318,
+                    "name": "TSM Spica",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120395,
+                    "name": "R7 Oddie",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074206664416,
+                    "name": "WC Minui",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090220140256,
+                    "name": "NOT Scoooped",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 6,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1210138,
+                    "name": "FLY toucouille",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1150250,
+                    "name": "DIG Neo",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 7,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686731609023648,
+                    "name": "TL Yeon",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2760263956948736,
+                    "name": "FLY Philip",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120557,
+                    "name": "XTN Archer",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120274,
+                    "name": "TL CoreJJ",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 12,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799094953846176,
+                    "name": "EGP Sketch",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889879323338464,
+                    "name": "UCI Cinna",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 8,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889093582890720,
+                    "name": "BAY Seranok",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 8,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120762,
+                    "name": "ISG Jelly",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799094088902048,
+                    "name": "100 Wixxi",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686726598509728,
+                    "name": "C9 Copy",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 6,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120431,
+                    "name": "EST Leza",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888033187552,
+                    "name": "TA Dec0y",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090228807393,
+                    "name": "TG Trixter",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889879320381152,
+                    "name": "DNHA Svmmy",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 13,
+                    "losses": 19,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2606947128780160,
+                    "name": "AZE 5kid",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120390,
+                    "name": "EST Bvoy",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 9,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120577,
+                    "name": "AK Hoglet",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120325,
+                    "name": "IMT WildTurtle",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 5,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799097983919520,
+                    "name": "TSM Instinct",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686748692137120,
+                    "name": "GG Chime",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 7,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2770027483727424,
+                    "name": "100 Busio",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2630229195302272,
+                    "name": "INF Ackerman",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 5,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074206164704,
+                    "name": "DARE Enigma",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120185,
+                    "name": "EST Grell",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120302,
+                    "name": "100 Ssumday",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090234050272,
+                    "name": "DNHA Duoking1",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1460132,
+                    "name": "MU Shady",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120307,
+                    "name": "DIG FakeGod",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120452,
+                    "name": "DIG Blue",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686722896610464,
+                    "name": "C9 Darshan",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 6,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799092148209056,
+                    "name": "TL Bradley",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120667,
+                    "name": "100 Abbedagge",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686750687446176,
+                    "name": "CLG Contractz",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120654,
+                    "name": "EG Inspired",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120284,
+                    "name": "Goldenglue",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889615605647072,
+                    "name": "XTN camilo",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120770,
+                    "name": "GG Violet",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074185184992,
+                    "name": "100X donbray",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090859615968,
+                    "name": "SN Saico",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1290195,
+                    "name": "BAY Dragonmin",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074201093856,
+                    "name": "FrostForest",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799100046665120,
+                    "name": "100X Array",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120296,
+                    "name": "EG Vulcan",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1180198,
+                    "name": "INF Kz",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120317,
+                    "name": "CLG Dhokla",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686751554634912,
+                    "name": "IMT Pretty",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799085989643680,
+                    "name": "100 Gamsu",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120238,
+                    "name": "TSM Huni",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120324,
+                    "name": "IMT PowerOfEvil",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754928346272,
+                    "name": "NOT Dragoon",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074237613792,
+                    "name": "RAD Lightpulse",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090889287392,
+                    "name": "DARE BMFX",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2888061993551584,
+                    "name": "EGP Perry",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120684,
+                    "name": "R7 SoHwan",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 7,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889883130316512,
+                    "name": "SN im baekho",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736633177248,
+                    "name": "CLG Poome",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073579026144,
+                    "name": "NOT Jishuka",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120327,
+                    "name": "IMT Revenge",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686750740260000,
+                    "name": "DIG JayJ",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686727642653856,
+                    "name": "C9 Isles",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686751518098592,
+                    "name": "IMT Joey",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869988402783328,
+                    "name": "FLY Yuuji",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799127156975008,
+                    "name": "GET Fix",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120415,
+                    "name": "INF Jauny",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090232403680,
+                    "name": "WIN Avano",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120406,
+                    "name": "AK Pancake",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090208483040,
+                    "name": "WIN Kenji",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889098279208673,
+                    "name": "WC Strompest",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 7,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120429,
+                    "name": "EST Acce",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 7,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090856994528,
+                    "name": "UCI Misterdot",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 2,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888249054944,
+                    "name": "DARE Censored",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090854045408,
+                    "name": "UCI sahori",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074195203808,
+                    "name": "TA Nightstar",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2719931129201920,
+                    "name": "TSM Hyper",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 4,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1290179,
+                    "name": "IMA Winston",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 9,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2870011462870112,
+                    "name": "TL Bjergsen",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120323,
+                    "name": "TL Santorin",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799127193732512,
+                    "name": "GET Bardito",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2892607276525280,
+                    "name": "Qit0ng",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869987607528544,
+                    "name": "FLY Spirax",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073580656352,
+                    "name": "MU Azog",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 7,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889876284507872,
+                    "name": "WC Jeremy",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 8,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120134,
+                    "name": "AK Luci",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 8,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090854217440,
+                    "name": "UCI Berik",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090234377952,
+                    "name": "IMA shochi",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090861254368,
+                    "name": "IMA Trevor",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 4,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686757857084576,
+                    "name": "CLG Prismal",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120263,
+                    "name": "GG Stixxay",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120403,
+                    "name": "GET Plugo",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120163,
+                    "name": "AZE Aloned",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120648,
+                    "name": "IMT Xerxe",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799095056532896,
+                    "name": "EGP Faisal",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686758799115424,
+                    "name": "EG Danny",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120275,
+                    "name": "Pobelter",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 9,
+                    "losses": 17,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120427,
+                    "name": "XTN Zerito",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 19,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120610,
+                    "name": "MU Getback",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090221762272,
+                    "name": "TG Doxa",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120291,
+                    "name": "100 huhi",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 6,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1180167,
+                    "name": "ISG Gavotto",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090879432416,
+                    "name": "NOT Gryffinn",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686731340932256,
+                    "name": "TL Haeri",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686755147244704,
+                    "name": "EGP Daption",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120408,
+                    "name": "AZE Straight",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756594115744,
+                    "name": "TSM Yursan",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090218338016,
+                    "name": "IMA animegirl",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686730436273312,
+                    "name": "CLG Jenkins",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 4,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686727122003104,
+                    "name": "C9 k1ng",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736219489440,
+                    "name": "GG ry0ma",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2894277586806496,
+                    "name": "EGP LEO99",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754985444512,
+                    "name": "TL Rhino",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873430864111328,
+                    "name": "GG Akaadian",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120272,
+                    "name": "Jensen",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2886846593885920,
+                    "name": "DIG Eclipse",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120316,
+                    "name": "DIG Biofrost",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090853242592,
+                    "name": "MU Kind Jungle",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2631387103831424,
+                    "name": "AK Zothve",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 7,
+                    "losses": 21,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074194851552,
+                    "name": "SN Firetheft",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074193876704,
+                    "name": "WIN Mordio",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 4,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074199127776,
+                    "name": "WIN Vex",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 6,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120299,
+                    "name": "CLG Palafox",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 6,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120309,
+                    "name": "EG Soligo",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 4,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869974994666592,
+                    "name": "EG SkyTec",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 3,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120285,
+                    "name": "100 FBI",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 2,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756984300704,
+                    "name": "CLG RoseThorn",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120293,
+                    "name": "C9 Blaber",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889885904176864,
+                    "name": "BAY Braine",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074180114144,
+                    "name": "TA Nemesis9",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076158375648,
+                    "name": "MU Odd Orange",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889092710033120,
+                    "name": "DARE Snow2",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120261,
+                    "name": "WC Griffin",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 8,
+                    "losses": 18,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090863580896,
+                    "name": "BAY Bejjaniii",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686755002942624,
+                    "name": "IMA Meech",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799100636382624,
+                    "name": "TG Cozy",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073575929568,
+                    "name": "NOT Blazze",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888063080160,
+                    "name": "WIN Saint GRIMM",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889092193494752,
+                    "name": "DARE Leemo",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076167075552,
+                    "name": "SN Pseudo",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889130372171488,
+                    "name": "BAY SophistSage",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074195179232,
+                    "name": "RAD Bluster",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754459583648,
+                    "name": "DIG DARKWINGS",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120330,
+                    "name": "Mash",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686758926369952,
+                    "name": "100X Mist",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090868471520,
+                    "name": "DARE Blossoms",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2616527386690944,
+                    "name": "GET Fs",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873413555103456,
+                    "name": "DIG Spawn",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2888060049000160,
+                    "name": "100X Sniper",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120396,
+                    "name": "ISG seiya",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799107763406240,
+                    "name": "TG Links",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869957473633376,
+                    "name": "C9 Winsome",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686753484768416,
+                    "name": "CLG Triple",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                }
+            ]
+        },
+        {
+            "seasonId": 1,
+            "title": "2022 Spring Season",
+            "shortTitle": "Spring",
+            "year": 2022,
+            "openDate": "2022-02-07T08:00:00.000000Z",
+            "closeDate": "2022-05-23T08:00:00.000000Z",
+            "split": null,
+            "lineup": [
+                {
+                    "summonerId": 2686751958099104,
+                    "name": "FLY Kumo",
+                    "rank": 1,
+                    "seasonPoints": 0,
+                    "lp": 175,
+                    "wins": 23,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754494891168,
+                    "name": "EG jojopyun",
+                    "rank": 1,
+                    "seasonPoints": 0,
+                    "lp": 175,
+                    "wins": 22,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2688040516027552,
+                    "name": "rjs",
+                    "rank": 3,
+                    "seasonPoints": 0,
+                    "lp": 135,
+                    "wins": 20,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120339,
+                    "name": "100X Insanity",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 19,
+                    "losses": 16,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120292,
+                    "name": "GG Licorice",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 16,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120530,
+                    "name": "EG Kaori",
+                    "rank": 4,
+                    "seasonPoints": 0,
+                    "lp": 120,
+                    "wins": 15,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120289,
+                    "name": "GG Ablazeolive",
+                    "rank": 7,
+                    "seasonPoints": 0,
+                    "lp": 115,
+                    "wins": 16,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090865522400,
+                    "name": "SN Ariendel",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 16,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120241,
+                    "name": "FLY Johnsun",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 14,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120749,
+                    "name": "XTN Keine",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 15,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752357418144,
+                    "name": "EG Srtty",
+                    "rank": 8,
+                    "seasonPoints": 0,
+                    "lp": 110,
+                    "wins": 14,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120430,
+                    "name": "FLY Josedeodo",
+                    "rank": 12,
+                    "seasonPoints": 0,
+                    "lp": 100,
+                    "wins": 15,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686732994692256,
+                    "name": "100 Tenacity",
+                    "rank": 13,
+                    "seasonPoints": 0,
+                    "lp": 95,
+                    "wins": 15,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736629671072,
+                    "name": "CLG Luger",
+                    "rank": 13,
+                    "seasonPoints": 0,
+                    "lp": 95,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074189444832,
+                    "name": "UCI dtro18",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 10,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686749231678624,
+                    "name": "Lourlo",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 15,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120270,
+                    "name": "EG Impact",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2719932643173632,
+                    "name": "TSM Takeover",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 12,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120311,
+                    "name": "CLG Breezy",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 11,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752800957600,
+                    "name": "EG Tomio",
+                    "rank": 15,
+                    "seasonPoints": 0,
+                    "lp": 90,
+                    "wins": 14,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090862900960,
+                    "name": "UCI Kim Down",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120753,
+                    "name": "EST Mia",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2704994465965216,
+                    "name": "AZE Dimitry",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 10,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120651,
+                    "name": "IMT Destiny",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 12,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1330170,
+                    "name": "DIG River",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752668624032,
+                    "name": "FLY Diamond",
+                    "rank": 21,
+                    "seasonPoints": 0,
+                    "lp": 85,
+                    "wins": 11,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799086370866592,
+                    "name": "IMT Chad",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 14,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869954552218720,
+                    "name": "C9 Malice",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 8,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686730968237216,
+                    "name": "TL Armao",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 12,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2870001115759712,
+                    "name": "IMT Concept",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 12,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1460128,
+                    "name": "IMT Arrow",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 10,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686752820962464,
+                    "name": "FLY Tomo",
+                    "rank": 27,
+                    "seasonPoints": 0,
+                    "lp": 80,
+                    "wins": 10,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120735,
+                    "name": "AZE Lonely",
+                    "rank": 33,
+                    "seasonPoints": 0,
+                    "lp": 75,
+                    "wins": 9,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120295,
+                    "name": "C9 Zven",
+                    "rank": 33,
+                    "seasonPoints": 0,
+                    "lp": 75,
+                    "wins": 9,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799097405924768,
+                    "name": "TG Gweiss",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 11,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756190618784,
+                    "name": "100X Sword",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 10,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076149700321,
+                    "name": "UCI duong pro",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 13,
+                    "losses": 16,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120242,
+                    "name": "FLY aphromoo",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 11,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120320,
+                    "name": "GG Lost",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 10,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2638968112948960,
+                    "name": "GG Pridestalkr",
+                    "rank": 35,
+                    "seasonPoints": 0,
+                    "lp": 70,
+                    "wins": 9,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120397,
+                    "name": "R7 Warangelus",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 12,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120264,
+                    "name": "Smoothie",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 12,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120247,
+                    "name": "GG Olleh",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2803278676256160,
+                    "name": "TSM Shenyi",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 8,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686753979532448,
+                    "name": "TSM V1per",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 9,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686749802341536,
+                    "name": "GG Tony Top",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 13,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686735300846752,
+                    "name": "100 Kenvi",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090877982432,
+                    "name": "TA Chookies",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 10,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686732453594272,
+                    "name": "TL Eyla",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 8,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120734,
+                    "name": "C9 Summit",
+                    "rank": 41,
+                    "seasonPoints": 0,
+                    "lp": 65,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2630712235124096,
+                    "name": "MU Niles",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 11,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120656,
+                    "name": "TL Hans sama",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 9,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873432713832160,
+                    "name": "IMT Dardoch",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 9,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799093553350048,
+                    "name": "DIG eXyu",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120283,
+                    "name": "100 Closer",
+                    "rank": 51,
+                    "seasonPoints": 0,
+                    "lp": 60,
+                    "wins": 8,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1220238,
+                    "name": "ISG ADD",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754525512864,
+                    "name": "RAD Raheen",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120446,
+                    "name": "INF cody",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 9,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2615481136555392,
+                    "name": "C9 Berserker",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 7,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2750663290152064,
+                    "name": "100 JimieN",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 8,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120280,
+                    "name": "TSM Tactical",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 6,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120318,
+                    "name": "TSM Spica",
+                    "rank": 56,
+                    "seasonPoints": 0,
+                    "lp": 55,
+                    "wins": 7,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120395,
+                    "name": "R7 Oddie",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074206664416,
+                    "name": "WC Minui",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090220140256,
+                    "name": "NOT Scoooped",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 6,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1210138,
+                    "name": "FLY toucouille",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1150250,
+                    "name": "DIG Neo",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 7,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686731609023648,
+                    "name": "TL Yeon",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2760263956948736,
+                    "name": "FLY Philip",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 9,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120557,
+                    "name": "XTN Archer",
+                    "rank": 63,
+                    "seasonPoints": 0,
+                    "lp": 50,
+                    "wins": 8,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120274,
+                    "name": "TL CoreJJ",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 12,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799094953846176,
+                    "name": "EGP Sketch",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889879323338464,
+                    "name": "UCI Cinna",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 8,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889093582890720,
+                    "name": "BAY Seranok",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 8,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120762,
+                    "name": "ISG Jelly",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799094088902048,
+                    "name": "100 Wixxi",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686726598509728,
+                    "name": "C9 Copy",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 6,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120431,
+                    "name": "EST Leza",
+                    "rank": 71,
+                    "seasonPoints": 0,
+                    "lp": 45,
+                    "wins": 7,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888033187552,
+                    "name": "TA Dec0y",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 13,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090228807393,
+                    "name": "TG Trixter",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889879320381152,
+                    "name": "DNHA Svmmy",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 13,
+                    "losses": 19,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2606947128780160,
+                    "name": "AZE 5kid",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120390,
+                    "name": "EST Bvoy",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 9,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120577,
+                    "name": "AK Hoglet",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120325,
+                    "name": "IMT WildTurtle",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 5,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799097983919520,
+                    "name": "TSM Instinct",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686748692137120,
+                    "name": "GG Chime",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 7,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2770027483727424,
+                    "name": "100 Busio",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2630229195302272,
+                    "name": "INF Ackerman",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 5,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074206164704,
+                    "name": "DARE Enigma",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120185,
+                    "name": "EST Grell",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 8,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120302,
+                    "name": "100 Ssumday",
+                    "rank": 79,
+                    "seasonPoints": 0,
+                    "lp": 40,
+                    "wins": 6,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090234050272,
+                    "name": "DNHA Duoking1",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1460132,
+                    "name": "MU Shady",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120307,
+                    "name": "DIG FakeGod",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120452,
+                    "name": "DIG Blue",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686722896610464,
+                    "name": "C9 Darshan",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 6,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799092148209056,
+                    "name": "TL Bradley",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120667,
+                    "name": "100 Abbedagge",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 7,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686750687446176,
+                    "name": "CLG Contractz",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120654,
+                    "name": "EG Inspired",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 6,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120284,
+                    "name": "Goldenglue",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889615605647072,
+                    "name": "XTN camilo",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 5,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120770,
+                    "name": "GG Violet",
+                    "rank": 93,
+                    "seasonPoints": 0,
+                    "lp": 35,
+                    "wins": 4,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074185184992,
+                    "name": "100X donbray",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090859615968,
+                    "name": "SN Saico",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1290195,
+                    "name": "BAY Dragonmin",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074201093856,
+                    "name": "FrostForest",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799100046665120,
+                    "name": "100X Array",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120296,
+                    "name": "EG Vulcan",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1180198,
+                    "name": "INF Kz",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 6,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120317,
+                    "name": "CLG Dhokla",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686751554634912,
+                    "name": "IMT Pretty",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 7,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799085989643680,
+                    "name": "100 Gamsu",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120238,
+                    "name": "TSM Huni",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120324,
+                    "name": "IMT PowerOfEvil",
+                    "rank": 105,
+                    "seasonPoints": 0,
+                    "lp": 30,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754928346272,
+                    "name": "NOT Dragoon",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074237613792,
+                    "name": "RAD Lightpulse",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090889287392,
+                    "name": "DARE BMFX",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2888061993551584,
+                    "name": "EGP Perry",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120684,
+                    "name": "R7 SoHwan",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 7,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889883130316512,
+                    "name": "SN im baekho",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736633177248,
+                    "name": "CLG Poome",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073579026144,
+                    "name": "NOT Jishuka",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120327,
+                    "name": "IMT Revenge",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686750740260000,
+                    "name": "DIG JayJ",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686727642653856,
+                    "name": "C9 Isles",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686751518098592,
+                    "name": "IMT Joey",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 6,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869988402783328,
+                    "name": "FLY Yuuji",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799127156975008,
+                    "name": "GET Fix",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 5,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120415,
+                    "name": "INF Jauny",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 4,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090232403680,
+                    "name": "WIN Avano",
+                    "rank": 117,
+                    "seasonPoints": 0,
+                    "lp": 25,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120406,
+                    "name": "AK Pancake",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090208483040,
+                    "name": "WIN Kenji",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889098279208673,
+                    "name": "WC Strompest",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 7,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120429,
+                    "name": "EST Acce",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 7,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090856994528,
+                    "name": "UCI Misterdot",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 2,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888249054944,
+                    "name": "DARE Censored",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090854045408,
+                    "name": "UCI sahori",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074195203808,
+                    "name": "TA Nightstar",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2719931129201920,
+                    "name": "TSM Hyper",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 4,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1290179,
+                    "name": "IMA Winston",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 9,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2870011462870112,
+                    "name": "TL Bjergsen",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 5,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120323,
+                    "name": "TL Santorin",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799127193732512,
+                    "name": "GET Bardito",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2892607276525280,
+                    "name": "Qit0ng",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869987607528544,
+                    "name": "FLY Spirax",
+                    "rank": 133,
+                    "seasonPoints": 0,
+                    "lp": 20,
+                    "wins": 3,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073580656352,
+                    "name": "MU Azog",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 7,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889876284507872,
+                    "name": "WC Jeremy",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 8,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120134,
+                    "name": "AK Luci",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 8,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090854217440,
+                    "name": "UCI Berik",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090234377952,
+                    "name": "IMA shochi",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090861254368,
+                    "name": "IMA Trevor",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 4,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686757857084576,
+                    "name": "CLG Prismal",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120263,
+                    "name": "GG Stixxay",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120403,
+                    "name": "GET Plugo",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120163,
+                    "name": "AZE Aloned",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120648,
+                    "name": "IMT Xerxe",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 3,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799095056532896,
+                    "name": "EGP Faisal",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686758799115424,
+                    "name": "EG Danny",
+                    "rank": 148,
+                    "seasonPoints": 0,
+                    "lp": 15,
+                    "wins": 2,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120275,
+                    "name": "Pobelter",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 9,
+                    "losses": 17,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120427,
+                    "name": "XTN Zerito",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 19,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120610,
+                    "name": "MU Getback",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090221762272,
+                    "name": "TG Doxa",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120291,
+                    "name": "100 huhi",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 6,
+                    "losses": 12,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1180167,
+                    "name": "ISG Gavotto",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090879432416,
+                    "name": "NOT Gryffinn",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 14,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686731340932256,
+                    "name": "TL Haeri",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686755147244704,
+                    "name": "EGP Daption",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120408,
+                    "name": "AZE Straight",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756594115744,
+                    "name": "TSM Yursan",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090218338016,
+                    "name": "IMA animegirl",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686730436273312,
+                    "name": "CLG Jenkins",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 4,
+                    "losses": 7,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686727122003104,
+                    "name": "C9 k1ng",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 5,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686736219489440,
+                    "name": "GG ry0ma",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 3,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2894277586806496,
+                    "name": "EGP LEO99",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754985444512,
+                    "name": "TL Rhino",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 0,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873430864111328,
+                    "name": "GG Akaadian",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120272,
+                    "name": "Jensen",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2886846593885920,
+                    "name": "DIG Eclipse",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120316,
+                    "name": "DIG Biofrost",
+                    "rank": 161,
+                    "seasonPoints": 0,
+                    "lp": 10,
+                    "wins": 2,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090853242592,
+                    "name": "MU Kind Jungle",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 3,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2631387103831424,
+                    "name": "AK Zothve",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 7,
+                    "losses": 21,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074194851552,
+                    "name": "SN Firetheft",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074193876704,
+                    "name": "WIN Mordio",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 4,
+                    "losses": 8,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074199127776,
+                    "name": "WIN Vex",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 6,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120299,
+                    "name": "CLG Palafox",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 6,
+                    "losses": 15,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120309,
+                    "name": "EG Soligo",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 4,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869974994666592,
+                    "name": "EG SkyTec",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 3,
+                    "losses": 11,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120285,
+                    "name": "100 FBI",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 2,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686756984300704,
+                    "name": "CLG RoseThorn",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120293,
+                    "name": "C9 Blaber",
+                    "rank": 182,
+                    "seasonPoints": 0,
+                    "lp": 5,
+                    "wins": 1,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889885904176864,
+                    "name": "BAY Braine",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074180114144,
+                    "name": "TA Nemesis9",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 10,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076158375648,
+                    "name": "MU Odd Orange",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 9,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889092710033120,
+                    "name": "DARE Snow2",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120261,
+                    "name": "WC Griffin",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 8,
+                    "losses": 18,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090863580896,
+                    "name": "BAY Bejjaniii",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686755002942624,
+                    "name": "IMA Meech",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799100636382624,
+                    "name": "TG Cozy",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889073575929568,
+                    "name": "NOT Blazze",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889888063080160,
+                    "name": "WIN Saint GRIMM",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889092193494752,
+                    "name": "DARE Leemo",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889076167075552,
+                    "name": "SN Pseudo",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889130372171488,
+                    "name": "BAY SophistSage",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889074195179232,
+                    "name": "RAD Bluster",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686754459583648,
+                    "name": "DIG DARKWINGS",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120330,
+                    "name": "Mash",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686758926369952,
+                    "name": "100X Mist",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2889090868471520,
+                    "name": "DARE Blossoms",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 2,
+                    "losses": 6,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2616527386690944,
+                    "name": "GET Fs",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 4,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2873413555103456,
+                    "name": "DIG Spawn",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 5,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2888060049000160,
+                    "name": "100X Sniper",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 1120396,
+                    "name": "ISG seiya",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 1,
+                    "losses": 3,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2799107763406240,
+                    "name": "TG Links",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 2,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2869957473633376,
+                    "name": "C9 Winsome",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                },
+                {
+                    "summonerId": 2686753484768416,
+                    "name": "CLG Triple",
+                    "rank": 193,
+                    "seasonPoints": 0,
+                    "lp": 0,
+                    "wins": 0,
+                    "losses": 1,
+                    "socialLinks": []
+                }
+            ]
+        }
+    ]
+}
