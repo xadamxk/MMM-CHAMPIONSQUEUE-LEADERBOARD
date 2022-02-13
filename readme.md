@@ -53,7 +53,13 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ````
-git clone https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD.git
+SSH: git clone git@github.com:xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD.git
+HTTPS: git clone https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD.git
+````
+
+Install/Update Dependencies:
+````
+npm install
 ````
 
 ## Configuration
@@ -71,12 +77,12 @@ modules: [
 
 | **Option** | **Type** | **Default** | **Description** |
 | --- | --- | --- | --- |
-| `updateInterval` | integer | '60' | Number of minutes to poll api for updates. |
-| `resultCount` | integer | '10' | Number of players' results to list. |
-| `showTitle` | boolean | 'true' | Show table title in format of Season - Split (ex. 2022 Spring Season - Split 1). |
-| `showCurrentSplit` | boolean | 'true' | Limit leaderboard to current split (uses current season otherwise). |
-| `showRemainingTime` | boolean | 'true' | Show remaining time for given split/season. |
-| `showPlayerLP` | boolean | 'false' | Replace rank ordinal with the player's LP. |
-| `showPlayerWinCount` | boolean | 'false' | Show wins-losses count. |
-| `showPlayerWinRates` | boolean | 'true' | Show win rate rounded to 1 decimal. |
+| `updateInterval` | integer | 60 | Number of minutes to poll api for updates. |
+| `resultCount` | integer | 10 | Number of players' results to list. |
+| `showTitle` | boolean | true | Show table title in format of Season - Split (ex. 2022 Spring Season - Split 1). |
+| `showCurrentSplit` | boolean | true | Limit leaderboard to current split (uses current season otherwise). |
+| `showRemainingTime` | boolean | true | Show remaining time for given split/season. |
+| `showPlayerLP` | boolean | false | Replace rank ordinal with the player's LP. |
+| `showPlayerWinCount` | boolean | false | Show wins-losses count. |
+| `showPlayerWinRates` | boolean | true | Show win rate rounded to 1 decimal. |
 
