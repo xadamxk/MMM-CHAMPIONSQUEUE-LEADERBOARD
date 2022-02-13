@@ -6,6 +6,32 @@
     height: 24px;
 }
 
-.championsQueueInvisible {
+.championsQueueRankInvisible {
     visibility: hidden;
+    font-size: 20px
+}
+
+.championsQueueDaysRemaining {
+    font-size: 16px;
+}
+
+.championsQueueRank {
+    font-size: 20px
+}
+
+.championsQueueLP {
+    font-size: 20px
+}
+
+.championsQueueLPInvisible {
+    visibility: hidden;
+    font-size: 20px
+}
+
+.championsQueuePlayerWinCount {
+    float: right;
+}
+
+.championsQueuePlayerWinRate {
+    float: right;
 }

@@ -7,16 +7,10 @@ Module.register("MMM-CHAMPIONSQUEUE-LEADERBOARD", {
     showTitle: true, // Season - Split (ex. 2022 Spring Season - Split 1)
     showCurrentSplit: true, // Limit leaderboard to current split (vs current season)
     showRemainingTime: true, // Show remaining time for given split/season
-    showPlayerWinRates: true, // Default
-    showPlayerWinCount: false, // Off by default
-    showPlayerLP: true // Default
+    showPlayerLP: false, // Replace rank ordinal with the player's LP
+    showPlayerWinCount: false, // Show wins-losses count
+    showPlayerWinRates: true // Show win rate rounded to 1 decimal
   },
-
-  // TODO: Styling for title, remaining time, rows
-  // TODO: Add win rates to player rows
-  // TODO: Add win counts to player rows
-  // TODO: Add player lp
-  // TODO: Change title depending on showCurrentSplit
 
   // Module properties
   players: [],

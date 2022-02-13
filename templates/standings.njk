@@ -1,26 +1,26 @@
 <table class="championsQueueStandingsTable">
     {% if standings.length === 0 %}
-        <tr>
+        <thead>
             <td>{{ 'NO_STANDINGS_FOUND' | translate }}</td>
-        </tr>
+        </thead>
     {% else %}
         {# Title #}
         {% if config.showTitle %}
             <thead>
                 <tr>
-                    <td>
+                    <div>
                         {{seasonTitle}}
                         {% if config.showCurrentSplit %}
                             -
                             {{splitTitle}}
                         {% endif %}
-                    </td>
+                    </div>
                 </tr>
             </thead>
         {% endif %}
         {# Remaining Time #}
         {% if config.showRemainingTime %}
-            <tr>
+            <tr class="championsQueueDaysRemaining">
                 <td>
                     {% if config.showCurrentSplit %}
                         {{splitDaysRemaining}}
@@ -35,18 +35,31 @@
         {% for player in players %}
             <tr class="championsQueueRow">
                 <td colspan="100%">
-                    {# First Rank - always append rank #}
-                    {% if loop.index0 === 0 %}
-                        <span>{{player.rank}}.</span>
-                    {% else %}
-                        {# Ff previous player rank is current players rank, hide rank #}
-                        {% if players[loop.index0 - 1].rank === player.rank %}
-                            <span class="championsQueueInvisible">{{player.rank}}.</span>
+                    {# Not First Rank or duplicate rank - append rank #}
+                    {% if loop.index1 !== 0 and players[loop.index0 - 1].rank !== player.rank %}
+                        {% if config.showPlayerLP %}
+                            <span class="championsQueueLP">{{player.lp}}LP</span>
                         {% else %}
-                            <span>{{player.rank}}.</span>
+                            <span class="championsQueueRank">{{player.rank}}.</span>
+                        {% endif %}
+                    {% else %}
+                        {# If previous player rank is current players rank, hide rank #}
+                        {% if config.showPlayerLP %}
+                            <span class="championsQueueLPInvisible">{{player.lp}}LP</span>
+                        {% else %}
+                            <span class="championsQueueRankInvisible">{{player.rank}}.</span>
                         {% endif %}
                     {% endif %}
                     <span>{{player.name}}</span>
+                    {% if config.showPlayerWinRates %}
+                        <span class="championsQueuePlayerWinRate">{{((player.wins/(player.wins+player.losses))*100) | round(1)}}%</span>
+                    {% endif %}
+                    {% if config.showPlayerWinRates and config.showPlayerWinCount %}
+                        <span class="championsQueuePlayerWinRate">&nbsp;</span>
+                    {% endif %}
+                    {% if config.showPlayerWinCount %}
+                        <span class="championsQueuePlayerWinCount">{{player.wins}}-{{player.losses}}</span>
+                    {% endif %}
                 </td>
             </tr>
         {% endfor %}
