@@ -10,8 +10,10 @@
                 <tr>
                     <td>
                         {{seasonTitle}}
-                        -
-                        {{splitTitle}}
+                        {% if config.showCurrentSplit %}
+                            -
+                            {{splitTitle}}
+                        {% endif %}
                     </td>
                 </tr>
             </thead>
@@ -20,7 +22,12 @@
         {% if config.showRemainingTime %}
             <tr>
                 <td>
-                    9 Days Remaining
+                    {% if config.showCurrentSplit %}
+                        {{splitDaysRemaining}}
+                    {% else %}
+                        {{seasonDaysRemaining}}
+                    {% endif %}
+                    {{'DAYS_REMAINING' | translate}}
                 </td>
             </tr>
         {% endif %}
