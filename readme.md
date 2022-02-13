@@ -6,7 +6,8 @@ Other league related modules:
 - TBD
 - TBD
 
-## Preview
+## Previews with Configuration Samples
+#### Default
 <img src="https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD/blob/main/screenshots/default_format.png?raw=true" title="Preview"  />
 
 <details> 
@@ -14,7 +15,7 @@ Other league related modules:
   <img src="https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD/blob/main/screenshots/season_format.png?raw=true" title="Preview Season Format"  />
 	<pre><code>
 config: {
-	showCurrentSplit: false,
+    showCurrentSplit: false,
     showRemainingTime: false	
 }
 	</code></pre>
